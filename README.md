@@ -1,6 +1,6 @@
 # Color Library
 
-All the colors that match for your project
+flikker
 
 ## Demo
 
